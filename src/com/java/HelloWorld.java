@@ -7,6 +7,9 @@ public class HelloWorld {
 		String s = null;
 		String k;
 		System.out.println("Hello World");
+		if(s.equals("yes")) {
+			System.out.println("Yes");
+		}
 	}
 
 }
